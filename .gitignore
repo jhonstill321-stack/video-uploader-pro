@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+token.json
+database.json
+uploads/*
+.DS_Store
+*.log
